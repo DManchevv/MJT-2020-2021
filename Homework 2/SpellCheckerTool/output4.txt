@@ -1,0 +1,10 @@
+Mitko argh kote castle
+diversity   $$aargh### kuche
+!$$$aarc//////////
+a    ##$laboratory's'$#
+= = = Metadata = = =
+80 characters, 9 words, 3 spelling issue(s) found
+= = = Findings = = =
+Line #1, {kote} - Possible suggestions are {ote, kotoite, gote}
+Line #1, {mitko} - Possible suggestions are {mit, tko, imit}
+Line #2, {kuche} - Possible suggestions are {kuchen, kuchean, kuchens}

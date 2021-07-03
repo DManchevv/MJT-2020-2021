@@ -1,0 +1,5 @@
+Zwingli  $#does~! eat    ote../
+= = = Metadata = = =
+24 characters, 3 words, 1 spelling issue(s) found
+= = = Findings = = =
+Line #1, {eat} - Possible suggestions are {neatherd, neatherds}
